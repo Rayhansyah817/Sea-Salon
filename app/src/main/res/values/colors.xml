@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    <color name="blue_primary">#78A8D9</color>-->
+    <color name="blue_primary">#49352E</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#49352E</color>
+    <color name="teal_200">#49352E</color>
+    <color name="teal_700">#49352E</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="active_button_color">#49352E</color> <!-- Green color -->
+    <color name="inactive_button_color">#8D8D8D</color> <!-- Red color -->
+
+</resources>

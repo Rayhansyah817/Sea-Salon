@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- stroke_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <solid android:color="@android:color/transparent" /> <!-- Warna background transparan -->
+    <stroke
+        android:width="7dp"
+        android:color="#000000" /> <!-- Warna stroke, disini hitam (#000000) -->
+    <corners android:radius="10dp" /> <!-- Radius sudut, disini 8dp -->
+</shape>

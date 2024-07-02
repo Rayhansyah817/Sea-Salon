@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">Sea Salon</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="action_notification">Notification</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_reservation">Reservation</string>
+    <string name="menu_notification">Notification</string>
+
+    <string name="menu_profile">Profile</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="title_home">Home</string>
+
+
+    <!--    baru texttt-->
+    <string name="name">Rafly Rayhansyah</string>
+    <string name="phoneHint">08123456789</string>
+    <string name="textWelcome">Welcome Back!</string>
+    <string name="desc">Use your credentials below and signup\nto your account</string>
+    <string name="descSignIn">Hi! Welcome back, you\'ve been\nmissed</string>
+    <string name="textlogin">-------------------------------- Or Log In With --------------------------------</string>
+    <string name="textSignUp">-------------------------------- Or Sign Up With --------------------------------</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signin">Sign In</string>
+    <string name="forgotPassword">Forgot Password</string>
+    <string name="forgotPasswordScreen">Forgot Password ?</string>
+    <string name="rememberMe">Remember Me</string>
+    <string name="google">Google</string>
+    <string name="github">Github</string>
+    <string name="facebook">Facebook</string>
+    <string name="donthaveacc">Don\'t have an account?</string>
+    <string name="signup">Sign Up</string>
+    <string name="fullname">Full Name</string>
+    <string name="phone">Phone Number</string>
+    <string name="confirmpassword">Confirm Password</string>
+    <string name="descsignup">If you already have an account register</string>
+    <string name="descsignup1">You can.</string>
+    <string name="loginhere">Login Here!</string>
+    <string name="createacc">Create Account</string>
+    <string name="descforgotpassword">We will send a verification code to\nyour registered email.</string>
+    <string name="sendcode">Send Code</string>
+    <string name="emailRafly">rayhansyahrafly@gmail.com</string>
+    <string name="isiPassword">***********</string>
+    <string name="persyaratan">Agree with Terms &amp; Condition</string>
+    <string name="descMain">The Furniture App that\nelevate your home</string>
+    <string name="emailaddress">Email Address</string>
+    <string name="verify">Verify</string>
+    <string name="noOTP">Didn\'t receive OTP ?</string>
+    <string name="resendcode">Resend Code</string>
+    <string name="descSucces">Welcome! Your account has been successfully created. Please sign in to start using our services.</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="events">Events</string>
+    <string name="schedule">Schedule</string>
+    <string name="wishlist">Wishlist</string>
+    <string name="maps">Maps</string>
+    <string name="community">Community</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+
+    <!--    males data  -->
+
+    <string name="salon_name">Nama Salon</string>
+    <string name="description">Deskripsi</string>
+
+    <!--    Reservation    -->
+    <string-array name="data_name_artists">
+        <item>Thomas</item>
+        <item>Sekar</item>
+        <item>Asep</item>
+    </string-array>
+
+    <string-array name="data_experience">
+        <item>7+ experience</item>
+        <item>10+ experience</item>
+        <item>1+ experience</item>
+    </string-array>
+
+    <string-array name="data_rating">
+        <item>4,0</item>
+        <item>4.2</item>
+        <item>4.1</item>
+    </string-array>
+
+    <integer-array name="data_photo_profile">
+        <item>@drawable/ic_artists1</item>
+        <item>@drawable/ic_artists1</item>
+        <item>@drawable/ic_artists1</item>
+    </integer-array>
+    <string name="title_activity_admin">AdminActivity</string>
+    <string name="list_reservation_users">Reservation Users</string>
+    <string name="list_history">History Reservation</string>
+    <string name="settings">Settings</string>
+    <string name="title_activity_ts">tsActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+</resources>

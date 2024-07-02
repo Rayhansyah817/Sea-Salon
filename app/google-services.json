@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "565232083609",
+    "project_id": "sea-salon-firebase",
+    "storage_bucket": "sea-salon-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565232083609:android:5485028d3c1bcc938bce08",
+        "android_client_info": {
+          "package_name": "com.compfest.seasalon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBPv4nQowXNmhV09GJo-epKOFIXbCvlIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
