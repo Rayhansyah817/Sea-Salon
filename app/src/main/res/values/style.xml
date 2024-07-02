@@ -12,7 +12,7 @@
     <style name="CustomAlertDialogTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
         <item name="android:textColorPrimary">@color/white</item>
         <item name="android:textColorSecondary">@color/white</item>
-        <item name="android:windowBackground">@drawable/spinner_dropdown_background</item>
+        <item name="android:windowBackground">#000000</item>
         <item name="android:backgroundDimEnabled">true</item>
         <item name="buttonBarPositiveButtonStyle">@style/CustomAlertDialogButton</item>
         <item name="buttonBarNegativeButtonStyle">@style/CustomAlertDialogButton</item>
